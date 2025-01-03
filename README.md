@@ -2,7 +2,7 @@
 
 A static portfolio website to showcase my projects, skills, and contact information.
 
-## Features
+## Feature
 - Responsive design for all devices.
 - Easy navigation across sections.
 - Project showcases with descriptions and links.
