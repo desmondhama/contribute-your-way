@@ -1,4 +1,4 @@
-# Showcase Me
+f7 # Showcase Me
 
 A static portfolio website to showcase my projects, skills, and contact information.
 
